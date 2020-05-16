@@ -5,7 +5,9 @@
 
 > **Criteria:** Integrates/connects to a secure VTC mechanism for meetings, sprint reviews, and other synchronized team events;
 
+<div class="embed-youtube">
 {% include youtubePlayer.html id="wJ0lJuMLo_k" %}
+</div>
 
 Cisco Webex meetings provides the solution to collaboriate over video media while allowing the capability to chat and shar content. 
 
