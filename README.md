@@ -1,11 +1,10 @@
-## Team Collaboration Evironment 
 
-### Research and suggestions
+## Research and suggestions
 
-Video teleconferencing **(VTC)**
+### Video teleconferencing **(VTC)**
 
-Criteria:
-- Integrates/connects to a secure VTC mechanism for meetings, sprint reviews, and other synchronized team events;
+### Criteria:
+> Integrates/connects to a secure VTC mechanism for meetings, sprint reviews, and other synchronized team events;
 
 {% include youtubePlayer.html id="wJ0lJuMLo_k" %}
 
