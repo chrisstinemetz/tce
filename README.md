@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Team Collaboration Evironment 
+
+### Research and suggestions
+
+
+[![Click to see Cisco Webex in action](https://img.youtube.com/vi/wJ0lJuMLo_k/0.jpg)](https://www.youtube.com/watch?v=wJ0lJuMLo_k)
 
 You can use the [editor on GitHub](https://github.com/chrisstinemetz/tce/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
