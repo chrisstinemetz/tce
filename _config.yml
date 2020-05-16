@@ -1,5 +1,4 @@
 theme: jekyll-theme-slate
 title: "Team Collaboration Environment"
 description: "Talking points for TCE"
-github:
-    is_project_page: false
+site.github.is_project_page: false
