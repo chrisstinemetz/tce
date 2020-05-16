@@ -1,5 +1,3 @@
-
-<link rel="stylesheet" type="text/css" href="styles.css">
 ## Research and suggestions
 
 ### Video teleconferencing **(VTC)**
