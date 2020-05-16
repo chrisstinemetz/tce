@@ -11,5 +11,5 @@
 
 Cisco Webex meetings provides the solution to collaborate over video media while allowing the capability to chat and share content. 
 
-As seen in the video, Webex meetings also integrates into *Atlassian Jira* which is a platform that enables a team to plan, track, and manage **agile** and software development project. 
+As seen in the above video, webex meetings also integrates into *Atlassian Jira* which is a collaborative platform that enabling a team to plan, track, and manage **agile** software development projects. 
 
