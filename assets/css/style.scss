@@ -3,6 +3,13 @@
 
 @import "jekyll-theme-slate";
 
+.embed-youtube {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    height: 0;
+  }
+
 .embed-youtube iframe {
     position: absolute;
     top: 0;
