@@ -1,4 +1,9 @@
-@import "jekyll-theme-slate";
+---
+---
+
+@import "{{ site.theme }}";
+#footer_wrap {display: none;}
+#forkme_banner {display: none;}
 
 .embed-youtube {
     position: relative;
@@ -15,6 +20,5 @@
     height: 100%;
 }
 
-#forkme_banner {display: none;}
 
 
