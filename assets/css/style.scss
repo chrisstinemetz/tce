@@ -1,6 +1,3 @@
----
----
-
 @import "jekyll-theme-slate";
 
 .embed-youtube {
@@ -8,7 +5,7 @@
     padding-bottom: 56.25%;
     padding-top: 25px;
     height: 0;
-  }
+}
 
 .embed-youtube iframe {
     position: absolute;
@@ -16,5 +13,8 @@
     left: 0;
     width: 100%;
     height: 100%;
-  }
+}
+
+#forkme_banner {display: none;}
+
 
