@@ -9,7 +9,7 @@
 {% include youtubePlayer.html id="iMxv8u30DH8" %}
 </div>
 
-- [Jira Software](https://www.atlassian.com/software/jira)
+- [Jira Software](https://www.atlassian.com/software/jira){:target="_blank"}
 - [Code Cloud](https://www.atlassian.com/software/bitbucket) 
 - [Confluence](https://www.atlassian.com/software/confluence)
 
