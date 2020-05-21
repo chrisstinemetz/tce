@@ -1,5 +1,6 @@
 ## Research and suggestions
 
+
 ### Video teleconferencing **(VTC)**
 
 ### Cisco webex meetings
@@ -22,6 +23,12 @@ Take aways:
 * This could be very useful for reporting and tracking communication for team members. Not only can you view how often meetings are conducted you can also see what topics were discussed and what the objectives are for the meetings.
 
 ### Cisco webex teams
+
+https://www.cisco.com/c/dam/en_us/solutions/collaboration/docs/cisco-webex-teams-solution-overview.pdf
+
+https://www.webex.com/team-collaboration.html
+
+https://www.webex.com/pricing/index.html
 
 video
 
