@@ -10,7 +10,7 @@
 </div>
 
 - [Jira Software](https://www.atlassian.com/software/jira)
-- [Code Cloud](https://www.atlassian.com/software/bitbucketversion) 
+- [Code Cloud](https://www.atlassian.com/software/bitbucket) 
 - [Confluence](https://www.atlassian.com/software/confluence)
 
 #### Pricing
