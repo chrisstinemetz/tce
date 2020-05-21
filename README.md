@@ -31,7 +31,7 @@ Mircosoft teams Atlassian integrations take aways:
 2. Meetings are automatically tracked in *Jira*   
 * This could be very useful for reporting and tracking communication for team members. Not only can you view how often meetings are conducted you can also see what topics were discussed and what the objectives are for the meetings.
 
-
+#### Pricing
 [Microsoft teams pricing](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/group-chat-software?&ef_id=Cj0KCQjwzZj2BRDVARIsABs3l9JOOglWETRolFYYm_8npKmj0bORz-XBhq-2kYeAMKSEJhIUDCNMIIwaAg4UEALw_wcB:G:s&OCID=AID2000955_SEM_Cj0KCQjwzZj2BRDVARIsABs3l9JOOglWETRolFYYm_8npKmj0bORz-XBhq-2kYeAMKSEJhIUDCNMIIwaAg4UEALw_wcB:G:s&gclid=Cj0KCQjwzZj2BRDVARIsABs3l9JOOglWETRolFYYm_8npKmj0bORz-XBhq-2kYeAMKSEJhIUDCNMIIwaAg4UEALw_wcB)
 
 - Free to use.
@@ -40,10 +40,4 @@ Mircosoft teams Atlassian integrations take aways:
 {% include youtubePlayer.html id="CH2seLS5Wb0" %}
 </div>
 
-
-
-
-<div class="embed-youtube">
-{% include youtubePlayer.html id="wJ0lJuMLo_k" %}
-</div>
 
