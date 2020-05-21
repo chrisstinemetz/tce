@@ -1,5 +1,13 @@
 ## Research and suggestions
 
+> The #1 software development tool used by agile teams
+
+[Jira Software](https://www.atlassian.com/software/jira)
+
+<div class="embed-youtube">
+{% include youtubePlayer.html id="iMxv8u30DH8" %}
+</div>
+
 
 ### Video teleconferencing **(VTC)**
 
