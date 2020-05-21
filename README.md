@@ -24,6 +24,7 @@ ___
 ### Microsoft teams
 
 Integrates with Atlassian Jira via Atlassian marketplace.
+
 [Microsoft Teams Atlassian](https://marketplace.atlassian.com/apps/1217836/microsoft-teams-for-jira?hosting=cloud&tab=overview)
 
 Mircosoft teams Atlassian integrations take aways:
