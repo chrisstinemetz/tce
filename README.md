@@ -1,5 +1,8 @@
 ## Research and suggestions
 
+### Agile software
+
+
 > The #1 software development tool used by agile teams
 
 [Jira Software](https://www.atlassian.com/software/jira)
@@ -8,7 +11,7 @@
 {% include youtubePlayer.html id="iMxv8u30DH8" %}
 </div>
 
-
+___
 ### Video teleconferencing **(VTC)**
 
 ### Cisco webex meetings
@@ -30,7 +33,25 @@ Take aways:
 2. Meetings are automatically tracked in *Jira*   
 * This could be very useful for reporting and tracking communication for team members. Not only can you view how often meetings are conducted you can also see what topics were discussed and what the objectives are for the meetings.
 
+___
+
 ### Cisco webex teams
+Cisco demo:
+<div class="embed-youtube">
+{% include youtubePlayer.html id="0O-k5Ku6P7o" %}
+</div>
+
+
+3rd party demo:
+<div class="embed-youtube">
+{% include youtubePlayer.html id="N4Z6bW7rLTw" %}
+</div>
+
+
+## Difference between Cisco Webex and Cisco Teams
+>Webex Meetings is a cloud-based app that provides video conferencing & online meetings. Webex Teams is a cloud-based app for continuous teamwork with videoconferencing, meetings, group messaging, file sharing and white boarding.
+
+
 
 https://www.cisco.com/c/dam/en_us/solutions/collaboration/docs/cisco-webex-teams-solution-overview.pdf
 
